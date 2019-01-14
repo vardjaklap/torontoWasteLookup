@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7547cef7a19e1570fb60",
+    "revision": "6e1a688eadb3e8586f17",
     "url": "/torontoWasteLookup/static/css/main.7af68513.chunk.css"
   },
   {
-    "revision": "7547cef7a19e1570fb60",
-    "url": "/torontoWasteLookup/static/js/main.7547cef7.chunk.js"
+    "revision": "6e1a688eadb3e8586f17",
+    "url": "/torontoWasteLookup/static/js/main.6e1a688e.chunk.js"
   },
   {
     "revision": "e432fe6fd1a8bc4af15e",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/torontoWasteLookup/static/js/runtime~main.03613004.js"
   },
   {
-    "revision": "38d6dd555a7b193c33721cdbfec2b020",
+    "revision": "12fdbb804cf1a04bf47932b8427d7c79",
     "url": "/torontoWasteLookup/index.html"
   }
 ];
