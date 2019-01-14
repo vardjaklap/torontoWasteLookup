@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vardjaklap/torontoWasteLookup/precache-manifest.7ff9c81a14e56cad5b245c6769888ce8.js"
+  "/torontoWasteLookup/precache-manifest.f7a1166241a8a0ca9ee921c86bfbeafd.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/vardjaklap/torontoWasteLookup/index.html", {
+workbox.routing.registerNavigationRoute("/torontoWasteLookup/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
